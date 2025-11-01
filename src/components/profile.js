@@ -105,7 +105,7 @@ export default function Profile() {
                   <div className="group">
                     <div className="flex justify-between items-center mb-2">
                       <span className="text-sm text-cyan-200/70">Frontend Development</span>
-                      <span className="text-sm font-medium text-cyan-300">85%</span>
+                      <span className="text-sm font-medium text-cyan-300">75%</span>
                     </div>
                     <div className="h-2 bg-blue-950/50 rounded-full overflow-hidden p-0.5">
                       <div className="h-full w-[85%] bg-gradient-to-r from-cyan-400 via-teal-300 to-cyan-400 rounded-full 
@@ -115,7 +115,7 @@ export default function Profile() {
                   <div className="group">
                     <div className="flex justify-between items-center mb-2">
                       <span className="text-sm text-cyan-200/70">UI/UX Design</span>
-                      <span className="text-sm font-medium text-cyan-300">80%</span>
+                      <span className="text-sm font-medium text-cyan-300">50%</span>
                     </div>
                     <div className="h-2 bg-blue-950/50 rounded-full overflow-hidden p-0.5">
                       <div className="h-full w-[80%] bg-gradient-to-r from-cyan-400 via-teal-300 to-cyan-400 rounded-full 
@@ -124,7 +124,7 @@ export default function Profile() {
                   </div>
                   <div className="group">
                     <div className="flex justify-between items-center mb-2">
-                      <span className="text-sm text-cyan-200/70">React.js</span>
+                      <span className="text-sm text-cyan-200/70">HTML</span>
                       <span className="text-sm font-medium text-cyan-300">85%</span>
                     </div>
                     <div className="h-2 bg-blue-950/50 rounded-full overflow-hidden p-0.5">

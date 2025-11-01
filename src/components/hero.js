@@ -39,8 +39,10 @@ export default function Portfolio() {
           <h1 className="text-5xl md:text-7xl font-extrabold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500">
             Hanifah Aulya
           </h1>
-          <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto leading-relaxed text-gray-600">
-            Frontend Developer & UI/UX Designer yang mengubah ide menjadi pengalaman digital yang indah dan bermakna
+          <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto leading-normal text-gray-600">
+            Haloo! Saya Hanifah Aulya, pelajar SMKN 1 Probolinggo dengan Kopetensi Keahlian Pengembangan Perangkat Lunak dan Gim (PPLG). 
+            Perjalanan awal saya dimulai dari ketertarikan pada psikologi, namun pesatnya perkembangan teknologi membawa saya ke dunia pengembangan software. 
+            Dengan semangat belajar yang tinggi, saya terus mengembangkan keterampilan di bidang ini.
           </p>
           <div className="flex flex-wrap justify-center gap-6 mb-12">
             <div className="px-6 py-3 bg-white rounded-xl shadow-md hover:shadow-lg transition-all">

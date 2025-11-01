@@ -3,22 +3,22 @@ import React from 'react';
 export default function Projects() {
   const data = [
     {
-      title: "Sistem K3LH Sekolah",
-      desc: "Aplikasi penitipan & pengambilan barang berbasis web.",
-      tech: ["React", "Node.js", "MySQL"],
-      image: "https://source.unsplash.com/random/800x600/?school"
+      title: "ACP #1",
+      desc: "Sertifikasi ACP 1 - Hardware Fundamental.",
+      tech: ["Hardware", "Produk Axioo", "Spesifikasi Teknologi"],
+      image: "/images/sertifikat.png"
     },
     {
       title: "IoT Lampu Hotel",
       desc: "Proyek kontrol lampu otomatis menggunakan kartu RFID.",
       tech: ["Arduino", "RFID", "IoT"],
-      image: "https://source.unsplash.com/random/800x600/?hotel"
+      image: "/images/iot.jpg"
     },
     {
       title: "Website Sekolah",
-      desc: "Proyek informasi mengenai data data di sekolah berbasis web.",
-      tech: ["React", "Express", "MongoDB"],
-      image: "https://source.unsplash.com/random/800x600/?education"
+      desc: "Proyek membuat tampilan sebuah website sekolah menggunakan html dan notedpluss.",
+      tech: ["html", "php", "notedpluss"],
+      image: "/images/SMKN 1.webp"
     },
   ];
 
@@ -28,7 +28,7 @@ export default function Projects() {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-            Karya Pilihan
+            Projek Saya
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Kumpulan proyek terbaik yang telah saya kerjakan dengan penuh dedikasi
