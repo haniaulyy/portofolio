@@ -40,7 +40,7 @@ export default function Portfolio() {
             Hanifah Aulya
           </h1>
           <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto leading-normal text-gray-600">
-            Haloo! Saya Hanifah Aulya, pelajar SMKN 1 Probolinggo dengan Kopetensi Keahlian Pengembangan Perangkat Lunak dan Gim (PPLG). 
+            Haloo! Saya Hanifah Aulya, pelajar SMKN 1 Probolinggo dengan Kompetensi Keahlian Pengembangan Perangkat Lunak dan Gim (PPLG). 
             Perjalanan awal saya dimulai dari ketertarikan pada psikologi, namun pesatnya perkembangan teknologi membawa saya ke dunia pengembangan software. 
             Dengan semangat belajar yang tinggi, saya terus mengembangkan keterampilan di bidang ini.
           </p>

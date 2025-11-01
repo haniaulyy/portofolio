@@ -51,7 +51,7 @@ export default function Profile() {
               {/* Basic Info */}
               <div className="text-center md:text-left">
                 <h3 className="text-3xl font-bold bg-gradient-to-r from-cyan-300 via-teal-200 to-cyan-300 text-transparent bg-clip-text mb-3">
-                  Hanifah Aulya 
+                  Hanifah Aulya Nur Aini
                 </h3>
                 <p className="text-lg text-cyan-100/90 mb-3 font-medium">Frontend Developer & UI/UX Designer</p>
                 <div className="flex items-center justify-center md:justify-start gap-2 text-cyan-200/60">
